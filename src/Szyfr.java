@@ -20,4 +20,10 @@ public class Szyfr {
         }
         return  zaszyfrowaneSlowo;
     }
+    public static boolean liczbaPierwsza(int liczba){
+        if (liczba == 1){
+            return false;
+        }
+        return false;
+    }
 }
